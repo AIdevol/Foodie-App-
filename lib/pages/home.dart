@@ -334,7 +334,7 @@ class HomePage extends StatelessWidget {
         style: TextStyle(
             color: Colors.black, fontSize: 18, fontWeight: FontWeight.bold),
       ),
-      backgroundColor: Colors.white,
+      backgroundColor: Color.fromARGB(255, 63, 74, 70),
       elevation: 0.0,
       centerTitle: true,
       leading: GestureDetector(
