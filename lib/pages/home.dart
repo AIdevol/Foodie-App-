@@ -304,7 +304,8 @@ class HomePage extends StatelessWidget {
               width: 100,
               child: IntrinsicHeight(
                 child: Row(
-                  mainAxisAlignment: MainAxisAlignment.end,
+                  mainAxisAlignme
+                  nt: MainAxisAlignment.end,
                   children: [
                     const VerticalDivider(
                       color: Colors.black,
